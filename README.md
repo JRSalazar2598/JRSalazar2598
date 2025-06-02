@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Juan Salazar</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
-- 🌱 Estoy aprendiendo **lenguaje c++**
+- 🌱 💡 Explorando C++
 
 - 📫 Puedes contactarme vía email **juanrafaelsalazar.a@gmail.com**
 
